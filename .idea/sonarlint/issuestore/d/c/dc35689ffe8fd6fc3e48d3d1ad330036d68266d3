@@ -1,0 +1,21 @@
+
+B
+java:S2129" Remove this "String" constructor(œ¹“ÿÿÿÿÿ8Û†ÿãÅ.
+B
+java:S2129" Remove this "String" constructor(’Êü§ıÿÿÿÿ8Û†ÿãÅ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŸŠì8ĞÙ¯äÅ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ñîè«ùÿÿÿÿ8Û†ÿãÅ.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘…°äÅ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í“Ûúÿÿÿÿ8·´äÅ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÊàÅ8ĞÙ¯äÅ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(şÌ§8öïÿãÅ.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(ßõÍüÿÿÿÿ8Û†ÿãÅ.
+=
+java:S2129" Remove this "String" constructor(¦ÿì­8Û†ÿãÅ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²´ıøÿÿÿÿ8¦†‘äÅ.
+=
+java:S2129" Remove this "String" constructor(¯ÎÍ8Û†ÿãÅ.

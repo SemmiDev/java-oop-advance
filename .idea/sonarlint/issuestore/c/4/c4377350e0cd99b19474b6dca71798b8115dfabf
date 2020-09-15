@@ -1,0 +1,49 @@
+
+F
+java:S3740¶"/Provide the parametrized type for this generic.(§åª
+n	java:S135u"YReduce the total number of break and continue statements in this loop to use at most one.(ÇñóÀ
+4
+java:S1700é"Rename field "inventory"(ş’Ñ«üÿÿÿÿ
+Y
+java:S1596p">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(Í¾×Êøÿÿÿÿ
+E
+java:S1121°".Extract the assignment out of this expression.(ÿë‹¿
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËùÄë
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­³¥úÿÿÿÿ
+t
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á¡§²üÿÿÿÿ
+‘
+java:S1130E"{Remove the declaration of thrown exception 'com.sammidev.others.NotSufficientChangeException' which is a runtime exception.(ŒÂŠ
+‰
+java:S1130F"sRemove the declaration of thrown exception 'com.sammidev.others.NotFullPaidException' which is a runtime exception.(†»¦«
+W
+java:S1126h"AReplace this if-then-else statement by a single return statement.(£´×º
+1
+java:S3626z"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626€"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626†"Remove this redundant jump.(ÉŠ©ƒ
+2
+java:S3626Œ"Remove this redundant jump.(ÉŠ©ƒ
+–
+java:S1130o"{Remove the declaration of thrown exception 'com.sammidev.others.NotSufficientChangeException' which is a runtime exception.(¨à™íøÿÿÿÿ
+o
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(…à‹Š
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(àñÏï
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(ş¶‹ñüÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(²Óö”
+V
+java:S1118Â":Add a private constructor to hide the implicit public one.(¬ƒ‰Ôøÿÿÿÿ
+u
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş’Ñ«üÿÿÿÿ
+<
+java:S1165š" Make this "message" field final.(ù„è¿ûÿÿÿÿ
+>
+java:S1165›""Make this "remaining" field final.(°Á®şÿÿÿÿ
+<
+java:S1165­" Make this "message" field final.(ù„è¿ûÿÿÿÿ
+<
+java:S1165º" Make this "message" field final.(ù„è¿ûÿÿÿÿ

@@ -234,7 +234,7 @@ class Inventory<T> {
 
     public int getQuantity(T item){
         Integer value = inventory.get(item);
-        return value == null? 0 : value ;
+        return value == null? 0 : value;
     }
 
     public void add(T item){

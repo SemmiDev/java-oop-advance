@@ -1,0 +1,19 @@
+
+=
+java:S2129" Remove this "String" constructor(¯ÎÍ8í…éãÅ.
+I
+java:S1612",Replace this lambda with a method reference.(š¡åÕ8Ø×ğãÅ.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(ßõÍüÿÿÿÿ8í…éãÅ.
+B
+java:S2129" Remove this "String" constructor(œ¹“ÿÿÿÿÿ8í…éãÅ.
+I
+java:S1602",Remove useless curly braces around statement(š¡åÕ8Ø×ğãÅ.
+=
+java:S2129" Remove this "String" constructor(¦ÿì­8í…éãÅ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’çôÂ8Ø×ğãÅ.
+B
+java:S2129" Remove this "String" constructor(’Êü§ıÿÿÿÿ8í…éãÅ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ñîè«ùÿÿÿÿ8øÉìãÅ.
